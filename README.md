@@ -3,21 +3,25 @@
 
 1. Bajar de github a local
 git clone https://github.com/Marcos-ECS/MoodlePersonal.git
+
  ![GITHUB](IMG/Clone.png)
 
 cd MoodlePersonal/
+
 ![GITHUB2](IMG/CD.png)
 
 3. Levantar con docker
 docker-compose up -d
-![DOCKER](IMG/Docker compose up.png)
 
-4. Verificar IP
+![DOCKER](IMG/Docker%20compose%20up.png)
+
+5. Verificar IP
 ip a
 
-5. Configurar moodle
+6. Configurar moodle
 
 - Ingresamos y hacemos login
+- 
 ![MOODLE](IMG/Login.png)
 
 - Creamos un nuevo curso
