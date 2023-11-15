@@ -21,10 +21,13 @@ ip a
 ![MOODLE](IMG/Login.png)
 
 - Creamos un nuevo curso
-![MOODLE](IMG/Crear un curso.png)
+  
+![MOODLE](IMG/Crearuncurso.png)
 
 - Agregamos los datos requeridos del curso
+
 ![MOODLE](IMG/EditarCurso.png)
   
 - Y nuestro primer curso en moodle queda concluido
+  
 ![MOODLE](IMG/Fin.png)
