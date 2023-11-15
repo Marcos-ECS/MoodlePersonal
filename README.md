@@ -21,7 +21,7 @@ ip a
 6. Configurar moodle
 
 - Ingresamos y hacemos login
-- 
+  
 ![MOODLE](IMG/Login.png)
 
 - Creamos un nuevo curso
