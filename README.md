@@ -22,7 +22,7 @@ ip a
 
 - Creamos un nuevo curso
   
-![MOODLE](IMG/Crearuncurso.png)
+![MOODLE](IMG/Crear%20un%20curso.png)
 
 - Agregamos los datos requeridos del curso
 
