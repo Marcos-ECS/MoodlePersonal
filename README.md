@@ -35,3 +35,23 @@ ip a
 - Y nuestro primer curso en moodle queda concluido
   
 ![MOODLE](IMG/Fin.png)
+
+## Practica en MAC OS
+
+1. Descargar el repositorio
+![Mac](PICS_MAC/IMG20231117114435.jpg)
+
+2. Revisar con CAT el contenido del compose.yml
+![Mac2](PICS_MAC/IMG20231117114459.jpg)
+
+3. Usar el compose para levantar los contenedores
+![MAC3](PICS_MAC/IMG20231117114615.jpg)
+
+4. Entrar a la página
+![MAC4](PICS_MAC/IMG20231117114703.jpg)
+
+5. Revisar que esta corriendo con el docker desktop
+![MAC5](PICS_MAC/IMG20231117114712.jpg)
+
+6. Limpiar
+![macfin](PICS_MAC/IMG20231117114839.jpg)
