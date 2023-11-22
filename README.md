@@ -41,18 +41,23 @@ ip a
 ![MacPic](PICS_MAC/IMG20231117103509.jpg)
 
 1. ¿Qué modelo de Mac?
+
 Mac Pro 2019
 
 2. ¿Cuánta memoria RAM tiene?
+
 96 GB DDR4 a 2666Mhz
 
 3. ¿Qué procesador tiene?
+
 Intel Xeon W
 
 4. ¿Cuántos núcleos tiene?
+
 8 nucleos
 
 5. ¿Cuántos hilos de ejecución tiene?
+
 16 Hilos
 
 
